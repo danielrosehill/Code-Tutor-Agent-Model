@@ -1,0 +1,1 @@
+Notes for a code claude swarm that implements the "show me how, provide feedback" method
